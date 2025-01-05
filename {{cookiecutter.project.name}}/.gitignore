@@ -1,0 +1,10 @@
+# binary
+{{cookiecutter.project_name}}
+
+# object files
+*.o
+
+# ignore debug symbols
+*.dSYM
+
+
